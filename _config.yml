@@ -9,13 +9,13 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Flux 
+title : Numerical Flux 
 tagline: Site Tagline
 author :
   name : Wood Little 
   email : anchao1987@gmail.com
   github : anchao1987
-  twitter : anchao1987
+  twitter : anchao1987(weibo)
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
