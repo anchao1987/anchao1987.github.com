@@ -11,11 +11,11 @@ pygments: true
 #
 title : Numerical Flux 
 tagline: Site Tagline
-author :
+author : anchao1987
   name : Wood Little 
   email : anchao1987@gmail.com
   github : anchao1987
-  twitter : anchao1987(weibo)
+  twitter : anchao1987
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
