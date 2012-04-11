@@ -10,13 +10,13 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Numerical Flux 
-tagline: Site Tagline
+tagline: 
 author : 
-name : Wood Little 
-email : anchao1987@gmail.com
-github : anchao1987
-twitter : anchao1987
-feedburner : feedname
+  name : Wood Little 
+  email : anchao1987@gmail.com
+  github : anchao1987
+  twitter : anchao1987
+  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
